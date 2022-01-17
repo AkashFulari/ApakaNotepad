@@ -4,7 +4,7 @@
 <ol>
   <li>Hard Disk: 200GB</li>
   <li>RAM : 4GB</li>
-  <li>JDK (Java Development Kit) : Min Version 11.0.8 - Max above 11.0.8</li>
+  <li>JDK (Java Development Kit) : Min Version 11.0.8 - Max Versiom (above 11.0.8)</li>
 </ol>
 
 <hr>
@@ -12,7 +12,7 @@
 <ul>
   <li>Read <b>README.MD</b> File with carefully</li>
   <li>If all required fields are available then go to next steps</li>
-  <li>Download JDK (11.0.8) & install it on your pc </li>
+  <li>Download JDK (11.0.8) for official website ORACLE(https://www.oracle.com/java/technologies/downloads) & install it on your pc </li>
   <li>After installation JDK to set the Enviroment variable path (It means get the path of java installation for EX. "C:\Program Files(X86)\java\bin" )</li>
   <li>Close all other windows (Tasks)</li>
   <li>Extract ApakaNotepad Zip File if ZIP Download otherwise jump to next step</li>
@@ -34,6 +34,7 @@
   <li>Simple Image Viwer</li>
   <li>Properties of Files/Folders/Disks</li>
   <li>Find in file features</li>
+  <li>Captures your perticuler Tab as well as Screen </li>
 </ul>
 <p>
   After Installation wait until software load, If software not loading perfectly then immediately contact to <b><tel>+91-7887545834</tel>/ <tel>+91-7887607036</tel></b>
