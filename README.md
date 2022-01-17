@@ -28,3 +28,4 @@
 
 Indian Best Text Editing Software || Use it free of cost
 <h1>MADE IN INDIA</h1>
+<h6>Powered By : ApakaFulari Software Solutions</h6>
