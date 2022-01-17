@@ -23,7 +23,7 @@
   <li></li>
 </ul>
 <p>
-  After Installation wait until software load, If software not loading perfectly then emydietly contact to <b><tel>+91-7887545834</tel>/ <tel>+91-7887607036</tel></b>
+  After Installation wait until software load, If software not loading perfectly then immediately contact to <b><tel>+91-7887545834</tel>/ <tel>+91-7887607036</tel></b>
 </p>
 
 Indian Best Text Editing Software || Use it free of cost
