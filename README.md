@@ -1,5 +1,9 @@
 # ApakaNotepad
-
+<mark>Types of softwares</mark>
+<ul>
+  <li>ApakaNotepad 1.0.1</li>
+  <li>ApakaNotepad 2.0</li>
+</ul>
 <b>Requirments for installation</b>
 <ol>
   <li>Hard Disk: 200GB</li>
