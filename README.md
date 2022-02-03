@@ -2,7 +2,7 @@
 <mark>Types of softwares</mark>
 <ul>
   <li>ApakaNotepad 1.0.1</li>
-  <li>ApakaNotepad 2.0</li>
+  <li>ApakaNotepad 2.0.0 (with new features)</li>
 </ul>
 <b>Requirments for installation</b>
 <ol>
