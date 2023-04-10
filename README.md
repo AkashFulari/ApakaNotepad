@@ -11,6 +11,11 @@
   <li>JDK (Java Development Kit) : Min Version 11.0.8 - Max Versiom (above 11.0.8)</li>
 </ol>
 
+Download
+--------
+
+[![Download Demo](https://download.formdev.com/flatlaf/images/download-demo.svg)](https://download.formdev.com/flatlaf/flatlaf-demo-latest.jar)
+
 <hr>
 <h2>Installation</h2>
 <ul>
