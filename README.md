@@ -14,7 +14,7 @@
 Download
 --------
 
-[![Download Demo](https://download.formdev.com/flatlaf/images/download-demo.svg)](https://download.formdev.com/flatlaf/flatlaf-demo-latest.jar)
+[![Download Demo](https://download.formdev.com/flatlaf/images/download-demo.svg)](https://github.com/AkashFulari/ApakaNotepad.git)
 
 <hr>
 <h2>Installation</h2>
