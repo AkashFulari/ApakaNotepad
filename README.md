@@ -1,8 +1,9 @@
 # ApakaNotepad
-<mark>Types of softwares</mark>
+<mark>Version of softwares</mark>
 <ul>
   <li>ApakaNotepad 1.0.1</li>
   <li>ApakaNotepad 2.0.0 (with new features)</li>
+  <li>ApakaNotepad 3.5.1 latest</li>
 </ul>
 <b>Requirments for installation</b>
 <ol>
