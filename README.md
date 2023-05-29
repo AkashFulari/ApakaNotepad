@@ -15,7 +15,9 @@
 Download
 --------
 
-[![Download Demo](https://download.formdev.com/flatlaf/images/download-demo.svg)](https://github.com/AkashFulari/ApakaNotepad.git)
+[![Download v1.0.0](https://www.apakafulari.me/apis/gitImages/downloadv1.0.0.svg)](https://github.com/AkashFulari/ApakaNotepad/blob/main/ApakaNotepad%20-%20v1.0.0.exe)
+[![Download v2.0.0](https://www.apakafulari.me/apis/gitImages/downloadv1.0.0.svg)](https://github.com/AkashFulari/ApakaNotepad/blob/main/ApakaNotepad%20-%20v2.0.0.exe)
+[![Download v3.5.1](https://www.apakafulari.me/apis/gitImages/downloadv1.0.0.svg)](https://github.com/AkashFulari/ApakaNotepad/blob/main/ApakaNotepad%20-%20v3.5.1.exe)
 
 <hr>
 <h2>Installation</h2>
