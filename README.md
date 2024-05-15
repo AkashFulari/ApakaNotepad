@@ -54,4 +54,4 @@ Download
 
 Indian Best Text Editing Software || Use it free of cost
 <h1>MADE IN INDIA</h1>
-<h6>Powered By : <a href='https://www.apakafulari.me'>ApakaFulari Software Solutions</a></h6>
+<h6>Powered By : <a href='https://apakatech.com'>ApakaTech Pvt Ltd.</a></h6>
